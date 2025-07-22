@@ -1,3 +1,6 @@
+# Author: Sergej Levich
+# Journal article: Sergej Levich and Lucas Knust, International Journal of Accounting Information Systems, https://doi.org/10.1016/j.accinf.2025.100750
+
 import numpy as np
 from doc2data.utils import load_image
 from doc2data.experimental.base_processors import DataProcessor

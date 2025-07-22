@@ -81,3 +81,20 @@ python 09_visualize_extraction_predictions.py
 ```
 
 Processed instances are saved to the directory ```processed_data/```, model checkpoints to ```models/``` and predictions as well as visualizations are saved to ```results/```. Please note that random initialization and a different computational environment may result in slight deviations.
+
+# Citation
+If you find this code useful, please consider citing our work as follows:
+
+```BibTeX
+@article{LEVICH2025100750,
+    title = {Discriminative meets generative: Automated information retrieval from unstructured corporate documents via (large) language models},
+    journal = {International Journal of Accounting Information Systems},
+    volume = {56},
+    pages = {100750},
+    year = {2025},
+    issn = {1467-0895},
+    doi = {https://doi.org/10.1016/j.accinf.2025.100750},
+    url = {https://www.sciencedirect.com/science/article/pii/S1467089525000260},
+    author = {Sergej Levich and Lucas Knust}
+}
+```

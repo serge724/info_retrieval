@@ -1,3 +1,6 @@
+# Author: Sergej Levich
+# Journal article: Sergej Levich and Lucas Knust, International Journal of Accounting Information Systems, https://doi.org/10.1016/j.accinf.2025.100750
+
 library(readr)
 library(dplyr)
 library(tidyr)
